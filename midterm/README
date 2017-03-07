@@ -1,0 +1,15 @@
+Working with Enron dataset
+#Analysis 1 : Storing files by saperating them in txt files with lists of to and from email addresses and data in different txt file for the main character Lay-k Who is CEO of Enron.
+
+#Analysis 2 :Showing people having max to and from connections with joint CEO's of Enron
+
+#Analysis 3: Sorting out top words spoken by CEO Lay Kenneth to get an overview of his chats as Zipfs law says that your 80% chats comprise of the words said by you often.
+
+
+
+Working with New York Times API
+
+Collected the data
+Stored the Data
+Retrieved the Data
+Did Analysis of finding Authors of the books which are considered to be best sellers and featured in NYTimes.
