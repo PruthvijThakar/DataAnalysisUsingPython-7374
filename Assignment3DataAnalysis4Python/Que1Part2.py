@@ -38,7 +38,7 @@ for borough in(new_vc[new_vc['BOROUGH'].notnull()]['BOROUGH'].unique()):
             
 df = DataFrame(d_trim, columns=['BOROUGH','ONE_VEHICLE_INVOLVED','TWO_VEHICLES_INVOLVED','THREE_VEHICLES_INVOLVED','MORE_VEHICLES_INVOLVED'])
 df.to_csv('Que1Part2.csv')
-df.head()
+print(df.head())
 
 
 # In[ ]:

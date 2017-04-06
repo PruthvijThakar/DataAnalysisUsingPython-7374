@@ -24,7 +24,7 @@ ec_sort= xyz['Total Compensation'].groupby(level=0, group_keys=False, as_index=T
 res = ec_sort.apply(lambda x: x.sort_values(ascending=False))
 final=res.to_frame()
 final.to_csv('Que2_Part1.csv')
-final.head()
+print(final.head())
 
 
 

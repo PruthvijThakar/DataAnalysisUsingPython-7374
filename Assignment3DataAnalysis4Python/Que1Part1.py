@@ -30,7 +30,7 @@ for a in range(1,13):
         
 df = DataFrame(d_trim, columns=['MONTH','MANHATTAN','NYC','PERCENTAGE'])
 df.to_csv('Que1Part1.csv')
-df.head()      
+print(df.head())      
 
 
 # In[ ]:
