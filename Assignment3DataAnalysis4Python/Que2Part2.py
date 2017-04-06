@@ -26,7 +26,7 @@ employee_salary=emp_cal.groupby(['Employee Identifier']).agg({'Salaries': np.sum
 
 employee_time=employee_salary[employee_salary['Overtime']/employee_salary['Salaries']>(5/100)]
 
-emp_clean=xyz[xyz.index.isin(employee_time.index)]
+emp_clean=emp_sort[emp_sort.index.isin(employee_time.index)]
 
 emp_calendar1= emp_clean.groupby('Job Family').agg({'Total Benefits': np.average,'Total Compensation':np.average})
 
@@ -34,7 +34,7 @@ emp_calendar1['Percentage']=emp_calendar1['Total Benefits']/emp_calendar1['Total
 
 emp_calendar1.to_csv('Que2_Part2.csv')
 
-emp_calendar1.head()
+print(emp_calendar1.head())
 
 
 # In[ ]:
