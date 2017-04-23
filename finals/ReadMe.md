@@ -58,7 +58,7 @@ Plot Files: <a href="Part3/Part3PNG">here</a>
 
 ## Effect of delays over Months
 
-<img src="Part3/Part3PNG/Part3Plot.PNG">
+<img src="Part3/Part3PNG/Part3Plot.png">
 
 ## Share of different Airlines in the delays
 
@@ -102,12 +102,12 @@ Plot Files:  <a href="part5/part5PNG">here</a>
 
 ##  Taxi in and out time for different airlines
 
-<img src="part5/part5PNG/part5Plot1.PNG">
+<img src="part5/part5PNG/taxiinandoutTimeSnap.PNG">
 <img src="part5/part5PNG/part5Plot1.PNG">
 
 ## Speed of Different Airlines
 
-<img src="part5/part5PNG/part5Plot2.PNG">
+<img src="part5/part5PNG/AirlineSpeedSnap.PNG">
 <img src="part5/part5PNG/part5Plot2.PNG">
 
 ## Airports present around USA
