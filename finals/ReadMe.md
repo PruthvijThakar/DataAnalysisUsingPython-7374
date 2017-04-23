@@ -47,7 +47,7 @@ Plot Files: <a href="Part2/part2PNG">here </a>
 
 ## Most Arrival Flights Traffic at US airports
 
-<img src="Part2/part2PNG/Snap.PNG">
+<img src="Part2/part2PNG/Snap2.PNG">
 
 <img src="Part2/part2PNG/Part2Plot.png">
 
