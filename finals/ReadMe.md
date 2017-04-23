@@ -98,18 +98,18 @@ Plot Files:  <a href="Part4/Part4PNG">here</a>
 
 
 
-Plot Files:  <a href="Part5/part5PNG">here</a>
+Plot Files:  <a href="part5/part5PNG">here</a>
 
 ##  Taxi in and out time for different airlines
 
-<img src="Part5/part5PNG/part5Plot1.PNG">
-<img src="Part5/part5PNG/part5Plot1.PNG">
+<img src="part5/part5PNG/part5Plot1.PNG">
+<img src="part5/part5PNG/part5Plot1.PNG">
 
 ## Speed of Different Airlines
 
-<img src="Part5/part5PNG/part5Plot2.PNG">
-<img src="Part5/part5PNG/part5Plot2.PNG">
+<img src="part5/part5PNG/part5Plot2.PNG">
+<img src="part5/part5PNG/part5Plot2.PNG">
 
 ## Airports present around USA
 
-<img src="Part5/part5PNG/part5Plot3.PNG">
+<img src="part5/part5PNG/part5Plot3.PNG">
