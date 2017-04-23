@@ -41,9 +41,13 @@ Plot Files: <a href="Part2/part2PNG">here </a>
 
 ### The graph has a hover function which specify the details if you pull the repository and run it.
 
+<img src="Part2/part2PNG/Snap2dep.png">
+
 <img src="Part2/part2PNG/Part2Plot2.png">
 
 ## Most Arrival Flights Traffic at US airports
+
+<img src="Part2/part2PNG/Snap.png">
 
 <img src="Part2/part2PNG/Part2Plot.png">
 
@@ -65,6 +69,8 @@ Plot Files: <a href="Part3/Part3PNG">here</a>
 <img src="Part3/Part3PNG/Part3Plot.png">
 
 ## Share of different Airlines in the delays
+
+<img src="Part3/Part3PNG/Capture.PNG">
 
 <img src="Part3/Part3PNG/Part3Plot2.PNG">
 
