@@ -41,13 +41,13 @@ Plot Files: <a href="Part2/part2PNG">here </a>
 
 ### The graph has a hover function which specify the details if you pull the repository and run it.
 
-<img src="Part2/part2PNG/Snap2dep.png">
+<img src="Part2/part2PNG/Snap2dep.PNG">
 
 <img src="Part2/part2PNG/Part2Plot2.png">
 
 ## Most Arrival Flights Traffic at US airports
 
-<img src="Part2/part2PNG/Snap.png">
+<img src="Part2/part2PNG/Snap.PNG">
 
 <img src="Part2/part2PNG/Part2Plot.png">
 
