@@ -41,7 +41,7 @@ Plot Files: <a href="Part2/part2PNG">here </a>
 
 <img src="Part2/part2PNG/Part2Plot2.png">
 
-## Most Departure Flights Traffic at US airports
+## Most Arrival Flights Traffic at US airports
 
 <img src="Part2/part2PNG/Part2Plot.png">
 
@@ -86,13 +86,13 @@ Plot Files:  <a href="Part4/Part4PNG">here</a>
 ## Analysis 5
 
 
-### Have an insight in Taxi in and out time for different airlines
-## Taxi-Out Time: The time elapsed between departure from the origin airport gate and wheels off.
-## Taxi-In Time: The time elapsed between wheels-on and gate arrival at the destination airport.
+## Have an insight in Taxi in and out time for different airlines
+### Taxi-Out Time: The time elapsed between departure from the origin airport gate and wheels off.
+### Taxi-In Time: The time elapsed between wheels-on and gate arrival at the destination airport.
 
-### Speed of Different Airlines
+## Speed of Different Airlines
 
-### Airports present around USA
+## Airports present around USA
 
 ## Outputs
 
@@ -112,4 +112,4 @@ Plot Files:  <a href="part5/part5PNG">here</a>
 
 ## Airports present around USA
 
-<img src="part5/part5PNG/part5Plot3.PNG">
+<img src="part5/part5PNG/Part5Plot3.PNG">
