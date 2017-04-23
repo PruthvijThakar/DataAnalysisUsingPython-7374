@@ -34,9 +34,9 @@ Plot Files: <a href="Part1/Part1png">Part 1 plots</a>
 
 ## Outputs
 
-CSV Files: <a href="Part2/part2CSVs"></a>
+CSV Files: <a href="Part2/part2CSVs">here</a>
 
-Plot Files: <a href="Part2/part2PNG"> </a>
+Plot Files: <a href="Part2/part2PNG">here </a>
 ## Most Departure Flights Traffic at Airports - Top 10 
 
 <img src="Part2/part2PNG/Part2Plot2.png">
@@ -52,9 +52,9 @@ Plot Files: <a href="Part2/part2PNG"> </a>
 
 ## Outputs
 
-CSV Files:  <a href="Part3/part3CSVs"></a>
+CSV Files:  <a href="Part3/part3CSVs">here</a>
 
-Plot Files: <a href="Part3/Part3PNG"></a>
+Plot Files: <a href="Part3/Part3PNG">here</a>
 
 ## Effect of delays over Months
 
@@ -71,9 +71,9 @@ Plot Files: <a href="Part3/Part3PNG"></a>
 ## Outputs
 
 
-CSV Files:   <a href="Part4/part4CSVs"></a>
+CSV Files:   <a href="Part4/part4CSVs">here</a>
 
-Plot Files:  <a href="Part4/Part4PNG"></a>
+Plot Files:  <a href="Part4/Part4PNG">here</a>
 
 ##  Airports with max number of Cancelled flights
 
@@ -90,7 +90,7 @@ Plot Files:  <a href="Part4/Part4PNG"></a>
 ## Taxi-Out Time: The time elapsed between departure from the origin airport gate and wheels off.
 ## Taxi-In Time: The time elapsed between wheels-on and gate arrival at the destination airport.
 
-###Speed of Different Airlines
+### Speed of Different Airlines
 
 ### Airports present around USA
 
@@ -98,7 +98,7 @@ Plot Files:  <a href="Part4/Part4PNG"></a>
 
 
 
-Plot Files:  <a href="Part5/part5PNG"></a>
+Plot Files:  <a href="Part5/part5PNG">here</a>
 
 ##  Taxi in and out time for different airlines
 
