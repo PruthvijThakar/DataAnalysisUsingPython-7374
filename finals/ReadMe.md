@@ -27,6 +27,10 @@ Plot Files: <a href="Part1/Part1png">Part 1 plots</a>
 
 <img src="Part1/Part1png/Part1Plot2.PNG">
 
+## Conclusions: 
+### From this figure we can point out that which day has the maximum number of flights that are scheduled for departure and Friday being the most busy day and Sunday being the least busy.
+### The Most number of flights are flown in month of July and least is February 
+
 ## Analysis 2
 
 
@@ -51,6 +55,9 @@ Plot Files: <a href="Part2/part2PNG">here </a>
 
 <img src="Part2/part2PNG/Part2Plot.png">
 
+## Conclusions: 
+### From this image we know about the Top 10 airports with most Departing and Arriving flights in USA and the most busiest being Atlanta's Hartsfield-Jackson Atlanta International Airport.
+
 ## Analysis 3
 
 
@@ -74,6 +81,9 @@ Plot Files: <a href="Part3/Part3PNG">here</a>
 
 <img src="Part3/Part3PNG/Part3Plot2.PNG">
 
+## Conclusions:
+### From this chart we can figure out the share of Airlines in total delays happened in 2015, most delays were caused with Southwest Airlines and least being Virgin America. 
+
 ## Analysis 4
 
 ### Airports with max number of Cancelled flights and Airports with max number of delayed Flights.
@@ -92,6 +102,12 @@ Plot Files:  <a href="Part4/Part4PNG">here</a>
 ## Airports with max number of delayed Flights
 
 <img src="Part4/Part4PNG/Part4Part2.PNG">
+
+## Conclusions:
+
+### This dataframe displays the airport with most amount of Cancelled Flights and Chicago O'Hare International Airport being at the top.
+
+### Atlanta's Hartsfield jackson Airport is the one with most delays. We can approve this hypothesis on basis that ATL is the most busiest airport naturally making it prone to more delays.
 
 ## Analysis 5
 
@@ -121,6 +137,14 @@ Plot Files:  <a href="part5/part5PNG">here</a>
 
 <img src="part5/part5PNG/AirlineSpeedSnap.PNG">
 <img src="part5/part5PNG/part5Plot2.PNG">
+
+## Conclusions:
+
+### This concludes that Hawaiian Airlines has minimum taxi in and out time where as US airways has maximum.
+
+### One more interesting observation is that in earlier analysis we showed that Southwest airlines has maximum number of delays and which might be the cause for the second best taxi in and out time for the Southwest Airlines
+
+### We can state that United Airline is the fastest with highest average Speed where as Hawaiian Airlines has the lowest average speed(in MPH)
 
 ## Airports present around USA
 
