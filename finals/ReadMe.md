@@ -39,6 +39,8 @@ CSV Files: <a href="Part2/part2CSVs">here</a>
 Plot Files: <a href="Part2/part2PNG">here </a>
 ## Most Departure Flights Traffic at Airports - Top 10 
 
+### The graph has a hover function which specify the details if you pull the repository and run it.
+
 <img src="Part2/part2PNG/Part2Plot2.png">
 
 ## Most Arrival Flights Traffic at US airports
@@ -55,6 +57,8 @@ Plot Files: <a href="Part2/part2PNG">here </a>
 CSV Files:  <a href="Part3/part3CSVs">here</a>
 
 Plot Files: <a href="Part3/Part3PNG">here</a>
+
+### The graphs have a hover function which specify the details if you pull the repository and run it.
 
 ## Effect of delays over Months
 
@@ -99,6 +103,8 @@ Plot Files:  <a href="Part4/Part4PNG">here</a>
 
 
 Plot Files:  <a href="part5/part5PNG">here</a>
+
+### The graphs have a hover function which specify the details if you pull the repository and run it.
 
 ##  Taxi in and out time for different airlines
 
